@@ -1,0 +1,4 @@
+Training accuracy: 0.92655
+Training loss: 0.2521788495134062
+Testing accuracy: 0.9514
+Testing loss: 0.16504422724246978
